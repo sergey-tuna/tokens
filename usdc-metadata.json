@@ -1,0 +1,6 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "description": "DefiTuna USDC test token",
+  "image": "https://raw.githubusercontent.com/sergey-tuna/tokens/main/usdc.png"
+}
